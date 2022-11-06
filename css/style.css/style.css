@@ -1,0 +1,12 @@
+body {
+    background: #464645;
+    overflow: hidden;
+}
+
+.header img {
+    width: 50px;
+    position: relative;
+    bottom: -580px;
+    left: -10px;
+    margin-left: 35px;
+}
